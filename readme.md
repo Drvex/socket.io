@@ -13,4 +13,4 @@ npm install
 node .
 
 ##
-![i1](https://github.com/Drvex/socket.io/blob/main/public/example.png)
+![i1](https://github.com/Drvex/socket.io/blob/master/public/images/example.png)
